@@ -1,0 +1,8 @@
+node_modules/
+test-results/
+playwright-report/
+reports/html/
+reports/screenshots/
+reports/videos/
+*.log
+.env
